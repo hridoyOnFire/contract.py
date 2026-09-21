@@ -1,0 +1,8 @@
+{
+  "name": "GenMarket",
+  "version": "1.0.0",
+  "description": "Autonomous AI Prediction & Dispute Resolution Market on GenLayer",
+  "main": "contract.py",
+  "compilerVersion": "genvm-0.2.17",
+  "license": "MIT"
+}
